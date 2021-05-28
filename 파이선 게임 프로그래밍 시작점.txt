@@ -1,0 +1,13 @@
+파이썬 공룡 게임 만들기
+
+https://blockdmask.tistory.com/419
+
+
+간단한 게임
+
+https://ai-creator.tistory.com/529
+
+
+PyGame - 사용법(기본 실행 구조)
+
+https://kkamikoon.tistory.com/129

@@ -1,0 +1,7 @@
+
+C:\Users\user\AppData\Local\Programs\Python\Python39\python -m pip install --upgrade
+
+
+C:\Users\user\AppData\Local\Programs\Python\Python39\Scripts\pip install pygame
+
+
